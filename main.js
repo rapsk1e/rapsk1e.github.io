@@ -20,7 +20,7 @@ $(document).ready(function() {
             $(this).addClass("puff-bubble");
         });
         $("#glow").remove();
-        txt.hide().html("i wish you happy birthday, thank you for coming unto my life, Amanda Safitri").delay(750).fadeIn(300);
+        txt.hide().html("i wish you happy birthday, thank you for coming into my life, Amanda Safitri").delay(750).fadeIn(300);
         $("#candle").animate(
             {
             opacity: ".5"
